@@ -46,7 +46,6 @@
                   
                   <button class="w-100 btn btn-lg btn-primary mt-4" name="submit" type="submit">Login in</button>
                 </form>
-                <small class="text-center d-block mt-3">NO registered? <a href="/register">Register Now</a></small>
               </main>
           </div>
       </div>
